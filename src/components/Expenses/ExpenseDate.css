@@ -11,7 +11,8 @@
   justify-content: center;
 }
 
-.expense-date__month {
+::-ms-ticks-before\
+desc .expense-date__month {
   font-size: 0.75rem;
   font-weight: bold;
 }
